@@ -4,7 +4,7 @@ import {
   Text,
   TextInput,
   TextInputProps,
-} from '@brightscript-ignite-ui/react'
+} from '@brightscript-design-system/react'
 
 export default {
   title: 'Form/Text Input',

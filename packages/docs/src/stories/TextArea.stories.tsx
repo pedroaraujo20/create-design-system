@@ -1,5 +1,10 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, Text, TextArea, TextAreaProps } from '@brightscript-ignite-ui/react'
+import {
+  Box,
+  Text,
+  TextArea,
+  TextAreaProps,
+} from '@brightscript-design-system/react'
 
 export default {
   title: 'Form/Text Area',

@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Avatar, AvatarProps } from '@brightscript-ignite-ui/react'
+import { Avatar, AvatarProps } from '@brightscript-design-system/react'
 
 export default {
   title: 'Data display/Avatar',

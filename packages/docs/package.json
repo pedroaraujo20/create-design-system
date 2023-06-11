@@ -1,6 +1,6 @@
 {
-  "name": "@brightscript-ignite-ui/docs",
-  "version": "1.0.0",
+  "name": "@brightscript-design-system/docs",
+  "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -28,10 +28,10 @@
     "vite": "^4.3.9"
   },
   "dependencies": {
-    "@brightscript-ignite-ui/eslint-config": "*",
-    "@brightscript-ignite-ui/react": "*",
-    "@brightscript-ignite-ui/tokens": "*",
-    "@brightscript-ignite-ui/ts-config": "*",
+    "@brightscript-design-system/eslint-config": "*",
+    "@brightscript-design-system/react": "*",
+    "@brightscript-design-system/tokens": "*",
+    "@brightscript-design-system/ts-config": "*",
     "@phosphor-icons/react": "^2.0.9",
     "polished": "^4.2.2",
     "react": "^18.2.0",

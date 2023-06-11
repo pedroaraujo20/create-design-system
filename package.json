@@ -1,5 +1,10 @@
 {
-  "private": true,
+  "name": "@brightscript/create-design-system",
+  "version": "1.0.0",
+  "description": "A design system starter from scratch using TypeScript, TurboRepo, StoryBook, Stitches, Changeset, Eslint, Github Actions, Workflows",
+  "author": "Pedro Araujo",
+  "license": "MIT",
+  "bin": "./bin/cli.js",
   "workspaces": [
     "packages/*"
   ],
@@ -14,4 +19,5 @@
     "@changesets/cli": "^2.26.1",
     "turbo": "^1.10.2"
   }
+  
 }

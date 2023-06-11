@@ -1,6 +1,6 @@
 {
-  "name": "@brightscript-ignite-ui/ts-config",
-  "version": "1.0.0",
+  "name": "@brightscript-design-system/ts-config",
+  "version": "0.0.0",
   "license": "MIT",
   "private": true
 }

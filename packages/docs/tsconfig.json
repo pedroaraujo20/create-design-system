@@ -1,4 +1,4 @@
 {
-  "extends": "@brightscript-ignite-ui/ts-config/react.json",
+  "extends": "@brightscript-design-system/ts-config/react.json",
   "include": ["src"]
 }

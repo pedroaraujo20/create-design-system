@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@brightscript-ignite-ui/tokens'
+} from '@brightscript-design-system/tokens'
 
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
