@@ -1,7 +1,7 @@
 {
   "name": "@brightscript/create-design-system",
-  "version": "1.0.4",
-  "description": "A design system starter from scratch using TypeScript, TurboRepo, StoryBook, Stitches, Changeset, Eslint, Github Actions, Workflows",
+  "version": "1.0.5",
+  "description": "A design system starter from scratch using TypeScript, TurboRepo, StoryBook, Stitches, Vite, Changeset, Eslint, Github Actions, Workflows",
   "author": "Pedro Araujo",
   "license": "MIT",
   "bin": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pedroaraujo20/designsystem"
+    "url": "https://github.com/pedroaraujo20/create-design-system"
   },
   "keywords": [
     "template",
@@ -18,12 +18,10 @@
     "turborepo",
     "create design system",
     "storybook",
-    "changeset"
+    "changeset",
+    "vite"
   ],
-  "bugs": {
-    "url": "https://github.com/petermekhaeil/create-my-template/issues"
-  },
-  "homepage": "https://github.com/pedroaraujo20/designsystem",
+  "homepage": "https://github.com/pedroaraujo20/create-design-system",
   "dependencies": {
     "cross-spawn": "^7.0.3"
   }

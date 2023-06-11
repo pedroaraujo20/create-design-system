@@ -91,7 +91,7 @@ my-design-system
 ```js
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/designsystem/'
+      config.base = '/create-design-system/'
     }
 
     return config
