@@ -102,12 +102,7 @@ my-design-system
 
 ### Setup env keys to publish
 
-- You will need to have this keys on your github project:
-
-`
-  VERCEL_TOKEN
-  NPM_TOKEN
-`
+- You will need to have this keys on your github project: `VERCEL_TOKEN` and `NPM_TOKEN`
 
 - To create a `NPM_TOKEN`, go to `Access Tokens - Generate New Token - Classic Token` - Add a name and select `Automation`
 
@@ -122,6 +117,19 @@ my-design-system
 - Don't forget to create your `TURBO_TEAM` and add into the `.github/workflows/deploy-docs.yml` and `.github/workflows/release.yml`.
 
 - With all in hands, go to your project on github, `Settings - Security - Secrets and variables - Actions - New repository secret` and add each one that you created. Now everything should be ready.
+
+### Publish
+
+- To publish, you'll have to create a organization on `NPM`. Click on `Create New Organization` and choose a name for the org and click on `Unlimited public packages`. Remember that the name of the org will be used on your package.json.
+
+Example:
+ - Organization name: brightpack
+ - package.json:
+  - "name": "@brightpack/name-of-your-package"
+
+![Create new organization](image-3.png)
+
+![New org](image-4.png)
 
 ### Example
 
