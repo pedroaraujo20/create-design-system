@@ -12,7 +12,13 @@
     "url": "https://github.com/pedroaraujo20/designsystem"
   },
   "keywords": [
-    "template"
+    "template",
+    "design system",
+    "react",
+    "turborepo",
+    "create design system",
+    "storybook",
+    "changeset"
   ],
   "bugs": {
     "url": "https://github.com/petermekhaeil/create-my-template/issues"

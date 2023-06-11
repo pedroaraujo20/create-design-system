@@ -1,3 +1,1 @@
-Create your design system with this
-
-`npx `
+This project was bootstrapped with [Create Design System](https://github.com/pedroaraujo20/designsystem).

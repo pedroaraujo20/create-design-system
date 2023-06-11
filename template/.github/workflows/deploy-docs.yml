@@ -24,7 +24,7 @@ jobs:
       - run: npm run build
         env:
           TURBO_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-          TURBO_TEAM: brightscript
+          TURBO_TEAM: brightscript # Here you add your own turbo team
 
       - name: Deploy storybook
         working-directory: ./packages/docs
