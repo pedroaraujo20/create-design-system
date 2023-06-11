@@ -1,0 +1,3 @@
+{
+  "extends": "@brightscript-ignite-ui/eslint-config"
+}
