@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Button, ButtonProps } from '@brightscript-design-system/react'
+import { Button, ButtonProps } from '@brightscript/react'
 import { ArrowRight } from '@phosphor-icons/react'
 
 export default {

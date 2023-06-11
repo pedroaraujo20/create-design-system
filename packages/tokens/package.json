@@ -1,6 +1,6 @@
 {
-  "name": "@brightscript-design-system/tokens",
-  "version": "0.0.0",
+  "name": "@brightscript/tokens",
+  "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@brightscript-design-system/ts-config": "*",
-    "@brightscript-design-system/eslint-config": "*",
+    "@brightscript/ts-config": "*",
+    "@brightscript/eslint-config": "*",
     "tsup": "^6.7.0",
     "typescript": "^5.1.3"
   }

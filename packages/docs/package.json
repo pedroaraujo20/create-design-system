@@ -1,5 +1,5 @@
 {
-  "name": "@brightscript-design-system/docs",
+  "name": "@brightscript/docs",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
@@ -28,10 +28,10 @@
     "vite": "^4.3.9"
   },
   "dependencies": {
-    "@brightscript-design-system/eslint-config": "*",
-    "@brightscript-design-system/react": "*",
-    "@brightscript-design-system/tokens": "*",
-    "@brightscript-design-system/ts-config": "*",
+    "@brightscript/eslint-config": "*",
+    "@brightscript/react": "*",
+    "@brightscript/tokens": "*",
+    "@brightscript/ts-config": "*",
     "@phosphor-icons/react": "^2.0.9",
     "polished": "^4.2.2",
     "react": "^18.2.0",

@@ -1,4 +1,4 @@
-import { colors } from '@brightscript-design-system/tokens'
+import { colors } from '@brightscript/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Text, TextProps } from '@brightscript-design-system/react'
+import { Text, TextProps } from '@brightscript/react'
 
 export default {
   title: 'Typography/Text',

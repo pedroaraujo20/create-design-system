@@ -1,5 +1,5 @@
 {
-  "name": "@brightscript-design-system/ts-config",
+  "name": "@brightscript/ts-config",
   "version": "0.0.0",
   "license": "MIT",
   "private": true

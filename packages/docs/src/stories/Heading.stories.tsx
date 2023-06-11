@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Heading, HeadingProps } from '@brightscript-design-system/react'
+import { Heading, HeadingProps } from '@brightscript/react'
 
 export default {
   title: 'Typography/Heading',

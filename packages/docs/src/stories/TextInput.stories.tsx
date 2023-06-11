@@ -1,10 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import {
-  Box,
-  Text,
-  TextInput,
-  TextInputProps,
-} from '@brightscript-design-system/react'
+import { Box, Text, TextInput, TextInputProps } from '@brightscript/react'
 
 export default {
   title: 'Form/Text Input',
