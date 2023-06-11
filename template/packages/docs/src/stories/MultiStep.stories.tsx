@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, MultiStep, MultiStepProps } from '@brightscript/react'
+import { Box, MultiStep, MultiStepProps } from '@brightpack/react'
 
 export default {
   title: 'Form/Multi Step',

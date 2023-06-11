@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, BoxProps, Text } from '@brightscript/react'
+import { Box, BoxProps, Text } from '@brightpack/react'
 
 export default {
   title: 'Surfaces/Box',

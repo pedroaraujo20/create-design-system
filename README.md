@@ -7,7 +7,7 @@ It has all that you need to create your own design system, with release, CI/CD r
 ## Quick Overview
 
 ```sh
-npm i -g @brightscript/create-design-system
+npm i -g @brightpack/create-design-system
 npx create-design-system my-design-system
 cd my-design-system
 npm run dev
@@ -105,7 +105,6 @@ my-design-system
 - You will need to have this keys on your github project:
 
 `
-  GITHUB_TOKEN
   VERCEL_TOKEN
   NPM_TOKEN
 `
@@ -120,7 +119,9 @@ my-design-system
 
 - To create a `VERCEL_TOKEN`, see the doc of Vercel https://vercel.com/docs/rest-api#introduction/api-basics/authentication
 
-- With all in hands, go to your project on github, Settings - Security - Secrets and variables - Actions - New repository secret and add each one that you created. Now everything should be ready.
+- Don't forget to create your `TURBO_TEAM` and add into the `.github/workflows/deploy-docs.yml` and `.github/workflows/release.yml`.
+
+- With all in hands, go to your project on github, `Settings - Security - Secrets and variables - Actions - New repository secret` and add each one that you created. Now everything should be ready.
 
 ### Example
 

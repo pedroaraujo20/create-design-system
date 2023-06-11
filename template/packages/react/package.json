@@ -1,5 +1,5 @@
 {
-  "name": "@brightscript/react",
+  "name": "@brightpack/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@brightscript/eslint-config": "*",
-    "@brightscript/tokens": "*",
-    "@brightscript/ts-config": "*",
+    "@brightpack/eslint-config": "*",
+    "@brightpack/tokens": "*",
+    "@brightpack/ts-config": "*",
     "@types/react": "^18.2.9",
     "@types/react-dom": "^18.2.4",
     "react": "^18.2.0",

@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@brightscript/tokens'
+} from '@brightpack/tokens'
 
 import { createStitches, defaultThemeMap } from '@stitches/react'
 

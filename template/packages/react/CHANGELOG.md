@@ -1,4 +1,4 @@
-# @brightscript/react
+# @brightpack/react
 
 ## 1.0.0
 

@@ -1,4 +1,4 @@
 {
-  "extends": "@brightscript/ts-config/react.json",
+  "extends": "@brightpack/ts-config/react.json",
   "include": ["src"]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@brightscript/tokens",
+  "name": "@brightpack/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@brightscript/ts-config": "*",
-    "@brightscript/eslint-config": "*",
+    "@brightpack/ts-config": "*",
+    "@brightpack/eslint-config": "*",
     "tsup": "^6.7.0",
     "typescript": "^5.1.3"
   }

@@ -1,4 +1,4 @@
-# @brightscript/eslint-config
+# @brightpack/eslint-config
 
 ## 1.0.0
 

@@ -1,4 +1,4 @@
-# @brightscript/tokens
+# @brightpack/tokens
 
 ## 1.0.0
 

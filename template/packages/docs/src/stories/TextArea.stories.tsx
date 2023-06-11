@@ -4,7 +4,7 @@ import {
   Text,
   TextArea,
   TextAreaProps,
-} from '@brightscript/react'
+} from '@brightpack/react'
 
 export default {
   title: 'Form/Text Area',

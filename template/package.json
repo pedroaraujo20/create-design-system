@@ -1,5 +1,5 @@
 {
-  "name": "@brightscript/create-design-system",
+  "name": "@brightpack/create-design-system",
   "private": true,
   "workspaces": [
     "packages/*"

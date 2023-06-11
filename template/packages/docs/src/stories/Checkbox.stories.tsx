@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, Text, Checkbox, CheckboxProps } from '@brightscript/react'
+import { Box, Text, Checkbox, CheckboxProps } from '@brightpack/react'
 
 export default {
   title: 'Form/Checkbox',
