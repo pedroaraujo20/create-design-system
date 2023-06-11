@@ -1,6 +1,6 @@
 {
   "name": "@brightscript/create-design-system",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A design system starter from scratch using TypeScript, TurboRepo, StoryBook, Stitches, Changeset, Eslint, Github Actions, Workflows",
   "author": "Pedro Araujo",
   "license": "MIT",
