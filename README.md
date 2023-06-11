@@ -1,11 +1,3 @@
-# Components
+Create your design system with this
 
-- [x] Text
-- [x] Heading
-- [x] Box
-- [x] Button
-- [x] TextInput
-- [x] TextArea
-- [x] Checkbox
-- [x] Avatar
-- [x] MultiStep
+`npx `

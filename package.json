@@ -5,6 +5,10 @@
   "author": "Pedro Araujo",
   "license": "MIT",
   "bin": "./bin/cli.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pedroaraujo20/designsystem"
+  },
   "workspaces": [
     "packages/*"
   ],
