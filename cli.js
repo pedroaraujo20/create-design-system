@@ -31,3 +31,8 @@ spawn.sync('npm', ['install'], { stdio: 'inherit' });
 
 console.log('Success! Your new project is ready.');
 console.log(`Created ${projectName} at ${projectDir}`);
+console.log(`To run your project:
+  cd ${projectName}
+  npm install
+  npm run dev
+`)

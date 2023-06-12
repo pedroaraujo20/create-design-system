@@ -10,6 +10,7 @@ It has all that you need to create your own design system, with release, CI/CD r
 npm i -g @brightpack/create-design-system
 npx create-design-system my-design-system
 cd my-design-system
+npm install
 npm run dev
 ```
 

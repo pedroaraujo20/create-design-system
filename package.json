@@ -1,6 +1,6 @@
 {
   "name": "@brightpack/create-design-system",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A design system starter from scratch using TypeScript, TurboRepo, StoryBook, Stitches, Vite, Changeset, Eslint, Github Actions, Workflows",
   "author": "Pedro Araujo",
   "license": "MIT",
