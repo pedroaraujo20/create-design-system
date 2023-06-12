@@ -1,5 +1,5 @@
 {
-  "name": "@brightpack/create-design-system",
+  "name": "project-name",
   "private": true,
   "workspaces": [
     "packages/*"

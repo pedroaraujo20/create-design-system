@@ -62,7 +62,7 @@ export const WithIcon: StoryObj<ButtonProps> = {
   args: {
     children: (
       <>
-        Próximo passo
+        Next Step
         <ArrowRight weight="bold" />
       </>
     ),

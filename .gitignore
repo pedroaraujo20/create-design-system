@@ -1,2 +1,5 @@
 node_modules
 *.log
+storybook-static
+dist
+.turbo
